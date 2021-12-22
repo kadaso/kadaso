@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Metallurgy and Mineral Processing Engineer, and a self-taught developer.</h3>
 
 - 🔭 I’m interested in providing products and services that will provide value to the potential society
-- 🌱 I’m currently learning new and trending technologies (ML, AI, Data Science, etc.) 🌟
+- 🌱 I’m currently learning new, trending skills and technologies (ML, AI, Data Science, etc.) 🌟
 - 👯 I’m looking to collaborate with dedicated, like-minded people
 - 🥅 2022 Goals: Contribute more to Open Source projects as well as to develop more products and/or services to the society
 - ⚡ Fun fact: The "g" in "relaxing" stands for games
