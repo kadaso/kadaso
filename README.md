@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danielkadaso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielkadaso" width="30px" /></a>
+<a href="https://linkedin.com/in/danielkadaso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="danielkadaso" width="25px" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
