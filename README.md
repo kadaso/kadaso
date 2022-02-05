@@ -4,7 +4,7 @@
 - 🔭 I’m interested in providing products and services that will provide value to the potential society
 - 🌱 I’m currently learning new, trending skills and technologies (ML, AI, Data Science, etc.) 🌟
 - 👯 I’m looking to collaborate with dedicated, like-minded people
-- 🥅 2022 Goals: Contribute more to Open Source projects as well as to develop more products and/or services to the society
+- 🥅 2022 Goals: Contribute more to Open Source projects as well as to develop more products and/or services for the society
 - ⚡ Fun fact: The "g" in "relaxing" stands for games
 
 <h3 align="left">Connect with me:</h3>
