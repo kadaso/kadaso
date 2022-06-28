@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kadaso 👋</h1>
-<h3 align="center">I'm an engineer (metallurgy and mineral processing) and a self-taught developer.</h3>
+<h3 align="center">I'm a metallurgy and mineral processing engineer. I like to learn and build things with technology.</h3>
 
 - 🔭 I’m interested in providing products and services that will provide value to the potential society
 - 🌱 I’m currently learning new, trending skills and technologies (ML, AI, Data Science, etc.) 🌟
